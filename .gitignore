@@ -20,6 +20,7 @@ models/*
 !data/raw/.gitkeep
 !data/processed/.gitkeep
 !models/.gitkeep
+ml/SpeechToText/data/git 
 
 # IDE / OS
 .vscode/
