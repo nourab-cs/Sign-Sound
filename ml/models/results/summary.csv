@@ -1,4 +1,0 @@
-﻿modèle,type,WER (%),CER (%),RTF,n_test
-whisper-tiny.en (fine-tuné),fine-tuné,10.34,5.02,0.257,150
-whisper-tiny.en (zero-shot),zero-shot,10.42,5.6,0.202,150
-wav2vec2-base-960h (zero-shot),zero-shot,18.21,6.98,0.453,150
