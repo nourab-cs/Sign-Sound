@@ -27,3 +27,6 @@ ml/SpeechToText/data
 .idea/
 .DS_Store
 Thumbs.db
+
+# Trained models
+ml/SpeechToText/models/whisper-tiny.en-dailytalk/
